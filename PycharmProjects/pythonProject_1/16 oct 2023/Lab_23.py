@@ -5,7 +5,7 @@ z=522
 maxx=None
 
 if x > y and x > z:
-    max = x
+    maxx= x
 elif y > x and  y > z:
     maxx = y
 else:
