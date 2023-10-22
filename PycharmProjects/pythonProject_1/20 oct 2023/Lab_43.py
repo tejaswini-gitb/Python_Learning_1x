@@ -5,7 +5,10 @@ def incfunction():
     print("helllllooo")
     pass
 
-incfunction(1)
-incfunction(*args:1)
-incfunction(1)
-incfunction(1)
+inCompleteunction(1)
+incompletefunction(1)
+incompletefunction(5)
+incompletefunction(1)
+
+
+PycharmProjects/pythonProject_1/20 oct 2023/Lab_37.py
