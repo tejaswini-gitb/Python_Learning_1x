@@ -1,4 +1,4 @@
-my_string="this is testing academy from the India"
+my_string="this is testing platform from the India"
 print(my_string)
 print(type(my_string))
 
