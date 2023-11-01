@@ -1,3 +1,5 @@
+# day one --- octomber
+
 print("day one > 2 oct 2023")
 print(2+4)
 print(2*4)
@@ -10,6 +12,6 @@ print(23+8774-7/4)
 # execute code line by line
 # calculation can be done using python
 
-print("tejaswini more- sr.test engineer to automation test engineer")
+print("tejaswini more- test engineer to automation test engineer")
 print('5*6')  #---- its a string ("" or '' defined as string)
 print(52552)
