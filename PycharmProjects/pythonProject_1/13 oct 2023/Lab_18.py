@@ -4,12 +4,15 @@
 # is not returns true if both variables are the object
 
 x= [1,2,3]
-y= [1,3,2]
+y= [1,2,3]
 
-print( x is y)
+print(x is not y)
+print(x is y)
+
 print(id(x))
 print(id(y))
-print(x is not y)
 
 a =2
 b =2
+print(a is not b)
+print(a is b)

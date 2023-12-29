@@ -12,9 +12,21 @@ print(name[0:8])
 print(name[0:9])
 print(name[0:15])
 
+isFemale= False
+print(type(name))
 print('--------')
 
 
 n4=['skdsdkdk']
 print(n4)
-print(type(n4))  #list
+print(type(n4))  #
+
+
+vcc=max(25,85,66,8)
+print(vcc)
+
+vc=min(25,85,66,8)
+print(vc)
+
+
+print()

@@ -15,4 +15,4 @@ print(max_val)
 
 age =int(input('enter age:\n'))
 result= "yes" if age > 25 else "no"
-print(result)
+print("you are allowded to watch movie?? :",result)

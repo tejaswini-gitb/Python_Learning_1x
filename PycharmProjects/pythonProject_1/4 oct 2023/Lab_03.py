@@ -3,7 +3,7 @@ print("hello world")
 #variables
 name="teju"
 age=28
-phone=8852657852
+phone=8852685200
 #print(phone)
 
 

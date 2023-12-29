@@ -1,13 +1,13 @@
 # python is case sensitive
-#calulation, design pattern can be done using python code
+# calulation, design pattern can be done using python code
 # im using/learning for test automation (testing)
 
-print("hello teju")
+print("hello world")
 print(23+45)
-print(23*48)
+print(23*48)# ctrl+d (copy)
 
 def sayHello():
-    print("hello world")
+    print("hello u")
     print('hello teju')
     print(8+9)
 sayHello()

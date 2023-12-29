@@ -15,6 +15,6 @@ print(a)
 
 a /= 5
 print(a)
-
+# updated values of a
 a %= 5
 print(a)

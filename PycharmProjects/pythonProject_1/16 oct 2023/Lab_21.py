@@ -8,6 +8,7 @@ print(age)
 # if this print
 # else then print
 
+
 if age >= 18:
     print("can watch movie")
 else:
