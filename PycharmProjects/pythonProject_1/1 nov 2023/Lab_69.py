@@ -1,19 +1,19 @@
 # 1
-
-
 products=[
     {"name" : "laptop", "price" : 10000},
-    {"name" : "pen", "price" : 2000},
+    {"name" : "pen", "price" : 200},
     {"name" : "bag", "price" : 500},
     {"name" : "wire", "price" : 800},
     {"name" : "sheet", "price" : 100},
-    {"name" : "headphone", "price" : 400},
+    {"name" : "headphone", "price" : 100},
     {"name" : "phone", "price" : 1000},
+    {"name" : "phone", "price" : 150},
 ]
 
 print(products)
 print(type(products))   # list
-print(type(products[1]))  # dict
+print(type(products[1:0]))  # dict
+print((products[1:1]))  # []
 
 def is_affordable(items):
     return items["price"] > 200

@@ -17,7 +17,7 @@ def is_affordable(abc):
 def is_affordable_name(abc):
     return len(abc["name"]) < 5
 
-affordable_items=list(filter(is_affordable,products))
+affordable_items=tuple(filter(is_affordable,products))
 for i in  affordable_items:
     print(i["price"],i["name"])
 affordable_items_name=list(filter(is_affordable_name,products))

@@ -1,4 +1,4 @@
-#encapsulation:
+ #encapsulation:
 #data members(attributes) and methods together in a class
 # person --- name, age, eat, sleep
 

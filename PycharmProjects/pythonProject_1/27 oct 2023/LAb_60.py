@@ -1,6 +1,6 @@
 #list
 list=[25,56,35,55,55,14,12,14,56,78]
-print(len(list)) #10
+print(len(list)) #10 number present
 
 #print unique items
 

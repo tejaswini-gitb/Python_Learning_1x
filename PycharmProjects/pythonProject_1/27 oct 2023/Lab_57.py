@@ -10,4 +10,7 @@ print(tuple3)
 #print(tuple3)
 # list of url to test api
 
-url=("https://courses/python-automation-api-1x","https://courses/java-automation-api-1x","https://courses/python-basic-1x")
+url1=(["https://courses/python-automation-api-1x","https://courses/java-automation-api-1x","https://courses/python-basic-1x"])
+url2=("https://courses/python-automation-api-1x","https://courses/java-automation-api-1x","https://courses/python-basic-1x")
+print(type(url1))
+print(type(url2))

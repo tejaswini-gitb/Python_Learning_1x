@@ -11,11 +11,12 @@ print(pb)
 print(pb["sdnd"])#55
 print(pb["uwdjh"])#63565
 print(pb.get("hdsduh"))
+popp=pb.pop("sdnd")
+print(popp)
 
 new_dicct=dict(name="fjh",ok=5255,yj25=8)
 print(new_dicct)
 print(new_dicct["ok"])
 print(new_dicct["name"])
-print(new_dicct.get["name"])
 
 #keys shoulb be string

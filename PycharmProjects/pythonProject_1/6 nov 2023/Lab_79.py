@@ -2,7 +2,7 @@ from Tools.i18n.msgfmt import make
 
 
 class Car:
-    name ="teju"
+    name ="teju"   
 
     def __init__(self,make,model):
         self.make = make

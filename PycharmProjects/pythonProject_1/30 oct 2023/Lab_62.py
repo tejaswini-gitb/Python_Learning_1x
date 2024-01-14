@@ -10,3 +10,4 @@ my_dict2=dict()
 
 print (type(my_dict))
 print (type(my_dict2))
+
