@@ -6,7 +6,7 @@ products=[
     {"name" : "bag", "price" : 500},
     {"name" : "wire", "price" : 800},
     {"name" : "sheet", "price" : 100},
-    {"name" : "headphone", "price" : 400},
+    {"name" : "headphone", "price" : 250},
     {"name" : "phone", "price" : 1000},
 ]
 
